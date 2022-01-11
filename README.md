@@ -1,6 +1,9 @@
-# NAME
+# studilay-bot
 
 ## Requirement
+
+* jdaUtilities
+
 
 ## Author
 
@@ -8,6 +11,12 @@
   * kigawa.8390@gmail.com
 
 ## About
+
+* discordBot
+* VCに1人目のユーザーが参加した際通知する機能
+* ロール付与
+* 荒らし対策
+* welcomメッセージ
 
 
 # making
